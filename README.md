@@ -1,12 +1,12 @@
 # Comprehensive-Analytics-with-Power-BI
 
-**Call Center**<p><img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/call.png" width="1000" height="500"> </p><!-- Replace with actual image -->
-**Chrun**<p><img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/welcome.png" width="1000" height="500"></p>
-<img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/churn.png" width="1000" height="500"></p>
-<img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/welcome.png" width="1000" height="500"></p>
+**Call Center**<p><img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/call.png" width="1000" height="500"> </p><!-- Replace with actual image -->
+**Chrun**<p><img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/welcome.png" width="1000" height="500"></p>
+<img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/churn.png" width="1000" height="500"></p>
+<img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/welcome.png" width="1000" height="500"></p>
 <!-- Replace with actual image -->
-**Diversity-Inclusion**<p><img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/diversity1.png" width="1000" height="500"></p>
-<img src="https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/diversity2.png" width="1000" height="500"></p>
+**Diversity-Inclusion**<p><img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/diversity1.png" width="1000" height="500"></p>
+<img src="https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/diversity2.png" width="1000" height="500"></p>
 
 ## Table of Contents 📑
 
@@ -30,13 +30,13 @@ This project focuses on data analytics and visualization using Power BI, where y
 <h2 id="about-the-dataset"> About the Dataset 📊</h2>
 The datasets used in this project include:
 
-### [Diversity-Inclusion-Dataset](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
+### [Diversity-Inclusion-Dataset](https://github.com/SinghPriya5Comprehensive-Analytics-with-Power-BI/blob/main/03%20Diversity-Inclusion-Dataset.xlsx)
 This dataset focuses on the diversity and inclusion metrics of the organization, providing insights into gender, nationality, age group, and promotion trends.
 
-### [Churn-Dataset](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/02%20Churn-Dataset.xlsx)
+### [Churn-Dataset](https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/02%20Churn-Dataset.xlsx)
 The churn dataset highlights employee turnover data, helping in the analysis of attrition rates across various departments, job levels, and employee demographics.
 
-### [Call-Center-Dataset](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/01%20Call-Center-Dataset.xlsx)
+### [Call-Center-Dataset](https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/01%20Call-Center-Dataset1.xlsx)
 The call center dataset helps analyze employee performance and turnover within a call center environment, examining key factors like work hours, department, and performance ratings.
 
 These datasets have been used to calculate various KPIs and create interactive Power BI dashboards.
@@ -68,13 +68,13 @@ This project provided valuable insights into workforce dynamics and helped devel
 
 <h2 id="power-bi-dashboard">Power BI Dashboard 📈</h2>
 
-### [Diversity & Inclusion Dashboard](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/Diversity%20%26%20Inclusion.pbix)
+### [Diversity & Inclusion Dashboard](https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/Diversity%20%26%20Inclusion.pbix)
 A comprehensive dashboard providing insights into diversity, hiring, and promotion metrics across different demographic groups.
 
-### [Turnover & Retention Dashboard](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/Customer%20Retention.pbix)
+### [Turnover & Retention Dashboard](https://github.com/Comprehensive-Analytics-with-Power-BI/blob/main/Customer%20Retention.pbix)
 This dashboard visualizes turnover rates, employee retention, and performance metrics, offering insights into the reasons behind employee attrition.
 
-### [Performance Analysis Dashboard](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/Call%20Center%20Solution.pbix)
+### [Performance Analysis Dashboard](https://github.com/SinghPriya5Comprehensive-Analytics-with-Power-BI/blob/main/Call%20Center%20Solution.pbix)
 A dashboard that analyzes employee performance ratings and compares them across different departments and job levels.
 
 <h2 id="skills-tools">Skills and Tools🔧</h2
@@ -85,7 +85,7 @@ A dashboard that analyzes employee performance ratings and compares them across 
 <h2 id="certificate">Certificate 🎓</h2>
 I have earned a certificate of completion for this project, which signifies my proficiency in using Power BI for data analytics and visualization.
 
-[Certificate](https://github.com/SinghPriya5/Diversity-and-Inclusion-Analytics-with-Power-BI/blob/main/PWC%20Certificate.pdf)
+[Certificate](https://github.com/SinghPriya5/Comprehensive-Analytics-with-Power-BI/blob/main/PWC%20Certificate.pdf)
 ---
 
 <h2 id="how-to-use">How to Use 🛠️</h2>
